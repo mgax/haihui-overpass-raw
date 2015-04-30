@@ -1,6 +1,7 @@
 {
     "elements": [
         {
+            "changeset": 11310369,
             "id": 305125139,
             "lat": 45.2719409,
             "lon": 24.1229188,
@@ -8,9 +9,14 @@
                 "name": "Cabana Cheia",
                 "tourism": "guest_house"
             },
-            "type": "node"
+            "timestamp": "2012-04-15T13:40:17Z",
+            "type": "node",
+            "uid": 65814,
+            "user": "indreias",
+            "version": 2
         },
         {
+            "changeset": 16641077,
             "id": 305126952,
             "lat": 45.3175019,
             "lon": 24.0810731,
@@ -19,9 +25,14 @@
                 "name": "Gera",
                 "natural": "peak"
             },
-            "type": "node"
+            "timestamp": "2013-06-21T09:30:42Z",
+            "type": "node",
+            "uid": 204685,
+            "user": "Flaviu",
+            "version": 3
         },
         {
+            "changeset": 16749913,
             "id": 305143992,
             "lat": 45.2050143,
             "lon": 24.0459755,
@@ -30,9 +41,14 @@
                 "name": "Arnota",
                 "natural": "peak"
             },
-            "type": "node"
+            "timestamp": "2013-06-29T10:11:49Z",
+            "type": "node",
+            "uid": 323389,
+            "user": "Michael_H",
+            "version": 4
         },
         {
+            "changeset": 389185,
             "id": 305144124,
             "lat": 45.2287151,
             "lon": 24.0806511,
@@ -41,9 +57,14 @@
                 "name": "Piatra",
                 "natural": "peak"
             },
-            "type": "node"
+            "timestamp": "2008-10-17T12:17:50Z",
+            "type": "node",
+            "uid": 30383,
+            "user": "alex-map",
+            "version": 3
         },
         {
+            "changeset": 16641077,
             "id": 305144135,
             "lat": 45.2371507,
             "lon": 24.0895106,
@@ -51,9 +72,14 @@
                 "name": "Buila",
                 "natural": "peak"
             },
-            "type": "node"
+            "timestamp": "2013-06-21T09:30:42Z",
+            "type": "node",
+            "uid": 204685,
+            "user": "Flaviu",
+            "version": 2
         },
         {
+            "changeset": 389185,
             "id": 305144297,
             "lat": 45.3099001,
             "lon": 24.0636566,
@@ -62,9 +88,14 @@
                 "name": "Preota",
                 "natural": "peak"
             },
-            "type": "node"
+            "timestamp": "2008-10-17T12:19:21Z",
+            "type": "node",
+            "uid": 30383,
+            "user": "alex-map",
+            "version": 1
         },
         {
+            "changeset": 16641077,
             "id": 305144372,
             "lat": 45.3055539,
             "lon": 24.0382508,
@@ -73,9 +104,14 @@
                 "name": "Govora",
                 "natural": "peak"
             },
-            "type": "node"
+            "timestamp": "2013-06-21T09:30:42Z",
+            "type": "node",
+            "uid": 204685,
+            "user": "Flaviu",
+            "version": 4
         },
         {
+            "changeset": 13820394,
             "id": 1684718321,
             "lat": 45.1914015,
             "lon": 24.1143952,
@@ -83,9 +119,14 @@
                 "name": "Tab\u0103ra B\u0103rb\u0103te\u0219ti",
                 "tourism": "camp_site"
             },
-            "type": "node"
+            "timestamp": "2012-11-10T13:05:00Z",
+            "type": "node",
+            "uid": 323389,
+            "user": "Michael_H",
+            "version": 2
         },
         {
+            "changeset": 16641077,
             "id": 1684718551,
             "lat": 45.2393232,
             "lon": 24.0926985,
@@ -93,9 +134,14 @@
                 "name": "Albu",
                 "natural": "peak"
             },
-            "type": "node"
+            "timestamp": "2013-06-21T09:30:42Z",
+            "type": "node",
+            "uid": 204685,
+            "user": "Flaviu",
+            "version": 2
         },
         {
+            "changeset": 16641077,
             "id": 1717917120,
             "lat": 45.2486981,
             "lon": 24.1009743,
@@ -104,9 +150,14 @@
                 "name": "V\u00e2nturari\u021ba Mare",
                 "natural": "peak"
             },
-            "type": "node"
+            "timestamp": "2013-06-21T09:30:42Z",
+            "type": "node",
+            "uid": 204685,
+            "user": "Flaviu",
+            "version": 4
         },
         {
+            "changeset": 16641077,
             "id": 1717978183,
             "lat": 45.3051802,
             "lon": 24.1197976,
@@ -115,9 +166,14 @@
                 "name": "Folea",
                 "natural": "peak"
             },
-            "type": "node"
+            "timestamp": "2013-06-21T09:30:42Z",
+            "type": "node",
+            "uid": 204685,
+            "user": "Flaviu",
+            "version": 3
         },
         {
+            "changeset": 21233815,
             "id": 2634652184,
             "lat": 45.196664,
             "lon": 24.044698,
@@ -136,9 +192,14 @@
                 "tourism_survey": "19.09.2013 14:46:32",
                 "website": "http://www.arhiram.ro/manastiri/manastirea-arnota"
             },
-            "type": "node"
+            "timestamp": "2014-03-21T20:31:52Z",
+            "type": "node",
+            "uid": 323389,
+            "user": "Michael_H",
+            "version": 3
         },
         {
+            "changeset": 21233815,
             "id": 2634652218,
             "lat": 45.188857,
             "lon": 24.039931,
@@ -159,9 +220,14 @@
                 "tourism_survey": "16.09.2013 13:44:18",
                 "website": "http://www.ortodox.ro/manastiri/manastirea_bistrita_valcea.html"
             },
-            "type": "node"
+            "timestamp": "2014-03-21T20:31:52Z",
+            "type": "node",
+            "uid": 323389,
+            "user": "Michael_H",
+            "version": 4
         },
         {
+            "changeset": 7137543,
             "id": 27780940,
             "nodes": [
                 305040864,
@@ -238,9 +304,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2011-01-30T18:18:13Z",
+            "type": "way",
+            "uid": 13832,
+            "user": "Peter14",
+            "version": 6
         },
         {
+            "changeset": 11310117,
             "id": 27781016,
             "nodes": [
                 305041752,
@@ -492,9 +563,14 @@
             "tags": {
                 "highway": "footway"
             },
-            "type": "way"
+            "timestamp": "2012-04-15T13:21:49Z",
+            "type": "way",
+            "uid": 65814,
+            "user": "indreias",
+            "version": 7
         },
         {
+            "changeset": 377713,
             "id": 27781178,
             "nodes": [
                 305044995,
@@ -532,9 +608,14 @@
                 "created_by": "Potlatch 0.10e",
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2008-10-16T20:35:50Z",
+            "type": "way",
+            "uid": 30383,
+            "user": "alex-map",
+            "version": 1
         },
         {
+            "changeset": 21590356,
             "id": 27781186,
             "nodes": [
                 798126271,
@@ -559,9 +640,14 @@
                 "highway": "residential",
                 "maxspeed": "RO:urban"
             },
-            "type": "way"
+            "timestamp": "2014-04-09T14:31:10Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 7
         },
         {
+            "changeset": 25035738,
             "id": 27781232,
             "nodes": [
                 798126271,
@@ -670,9 +756,14 @@
                 "highway": "track",
                 "name": "Traseu posibl"
             },
-            "type": "way"
+            "timestamp": "2014-08-26T18:41:57Z",
+            "type": "way",
+            "uid": 2291451,
+            "user": "black00slayer",
+            "version": 7
         },
         {
+            "changeset": 18970181,
             "id": 27781294,
             "nodes": [
                 2537840659,
@@ -757,9 +848,14 @@
             "tags": {
                 "highway": "footway"
             },
-            "type": "way"
+            "timestamp": "2013-11-18T12:26:38Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 5
         },
         {
+            "changeset": 8386488,
             "id": 27781313,
             "nodes": [
                 305045395,
@@ -822,9 +918,14 @@
             "tags": {
                 "highway": "footway"
             },
-            "type": "way"
+            "timestamp": "2011-06-09T09:04:50Z",
+            "type": "way",
+            "uid": 62512,
+            "user": "Cristian Draghici",
+            "version": 4
         },
         {
+            "changeset": 377713,
             "id": 27781316,
             "nodes": [
                 305045479,
@@ -964,9 +1065,14 @@
                 "created_by": "Potlatch 0.10e",
                 "highway": "footway"
             },
-            "type": "way"
+            "timestamp": "2008-10-16T20:43:30Z",
+            "type": "way",
+            "uid": 30383,
+            "user": "alex-map",
+            "version": 2
         },
         {
+            "changeset": 18970181,
             "id": 27781412,
             "nodes": [
                 2537840557,
@@ -1063,9 +1169,14 @@
             "tags": {
                 "highway": "footway"
             },
-            "type": "way"
+            "timestamp": "2013-11-18T12:26:38Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 6
         },
         {
+            "changeset": 377713,
             "id": 27781424,
             "nodes": [
                 305047314,
@@ -1095,9 +1206,14 @@
                 "created_by": "Potlatch 0.10e",
                 "highway": "footway"
             },
-            "type": "way"
+            "timestamp": "2008-10-16T20:49:01Z",
+            "type": "way",
+            "uid": 30383,
+            "user": "alex-map",
+            "version": 2
         },
         {
+            "changeset": 8386488,
             "id": 27781498,
             "nodes": [
                 305047343,
@@ -1186,9 +1302,14 @@
             "tags": {
                 "highway": "footway"
             },
-            "type": "way"
+            "timestamp": "2011-06-09T09:04:52Z",
+            "type": "way",
+            "uid": 62512,
+            "user": "Cristian Draghici",
+            "version": 6
         },
         {
+            "changeset": 11310695,
             "id": 27781501,
             "nodes": [
                 305048047,
@@ -1259,9 +1380,14 @@
             "tags": {
                 "highway": "footway"
             },
-            "type": "way"
+            "timestamp": "2012-04-15T14:05:56Z",
+            "type": "way",
+            "uid": 65814,
+            "user": "indreias",
+            "version": 3
         },
         {
+            "changeset": 377713,
             "id": 27781573,
             "nodes": [
                 305050666,
@@ -1370,9 +1496,14 @@
                 "created_by": "Potlatch 0.10e",
                 "highway": "footway"
             },
-            "type": "way"
+            "timestamp": "2008-10-16T21:01:21Z",
+            "type": "way",
+            "uid": 30383,
+            "user": "alex-map",
+            "version": 2
         },
         {
+            "changeset": 377713,
             "id": 27781604,
             "nodes": [
                 305051109,
@@ -1479,9 +1610,14 @@
                 "created_by": "Potlatch 0.10e",
                 "highway": "footway"
             },
-            "type": "way"
+            "timestamp": "2008-10-16T20:57:30Z",
+            "type": "way",
+            "uid": 30383,
+            "user": "alex-map",
+            "version": 2
         },
         {
+            "changeset": 377713,
             "id": 27781686,
             "nodes": [
                 305043236,
@@ -1546,9 +1682,14 @@
                 "created_by": "Potlatch 0.10e",
                 "highway": "footway"
             },
-            "type": "way"
+            "timestamp": "2008-10-16T21:00:44Z",
+            "type": "way",
+            "uid": 30383,
+            "user": "alex-map",
+            "version": 2
         },
         {
+            "changeset": 11052582,
             "id": 27781690,
             "nodes": [
                 305047400,
@@ -1640,9 +1781,14 @@
             "tags": {
                 "highway": "footway"
             },
-            "type": "way"
+            "timestamp": "2012-03-21T14:15:08Z",
+            "type": "way",
+            "uid": 65814,
+            "user": "indreias",
+            "version": 3
         },
         {
+            "changeset": 377713,
             "id": 27781691,
             "nodes": [
                 305045462,
@@ -1690,9 +1836,14 @@
                 "created_by": "Potlatch 0.10e",
                 "highway": "footway"
             },
-            "type": "way"
+            "timestamp": "2008-10-16T21:01:03Z",
+            "type": "way",
+            "uid": 30383,
+            "user": "alex-map",
+            "version": 1
         },
         {
+            "changeset": 22743419,
             "id": 27781725,
             "nodes": [
                 305049828,
@@ -1799,9 +1950,14 @@
             "tags": {
                 "highway": "footway"
             },
-            "type": "way"
+            "timestamp": "2014-06-04T20:58:28Z",
+            "type": "way",
+            "uid": 981872,
+            "user": "b374",
+            "version": 4
         },
         {
+            "changeset": 21231511,
             "id": 27781732,
             "nodes": [
                 305049828,
@@ -1888,9 +2044,14 @@
                 "ref": "DJ654",
                 "surface": "dirt"
             },
-            "type": "way"
+            "timestamp": "2014-03-21T18:03:24Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 7
         },
         {
+            "changeset": 3128854,
             "id": 27789238,
             "nodes": [
                 305045618,
@@ -1992,9 +2153,14 @@
             "tags": {
                 "highway": "footway"
             },
-            "type": "way"
+            "timestamp": "2009-11-16T01:25:44Z",
+            "type": "way",
+            "uid": 109035,
+            "user": "Teddy80",
+            "version": 3
         },
         {
+            "changeset": 8386488,
             "id": 27789283,
             "nodes": [
                 305132587,
@@ -2048,9 +2214,14 @@
             "tags": {
                 "highway": "footway"
             },
-            "type": "way"
+            "timestamp": "2011-06-09T09:04:53Z",
+            "type": "way",
+            "uid": 62512,
+            "user": "Cristian Draghici",
+            "version": 6
         },
         {
+            "changeset": 25132305,
             "id": 27789426,
             "nodes": [
                 750561297,
@@ -2199,9 +2370,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-08-31T08:07:02Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 10
         },
         {
+            "changeset": 3128854,
             "id": 27789503,
             "nodes": [
                 305132587,
@@ -2217,9 +2393,14 @@
             "tags": {
                 "highway": "footway"
             },
-            "type": "way"
+            "timestamp": "2009-11-16T01:25:46Z",
+            "type": "way",
+            "uid": 109035,
+            "user": "Teddy80",
+            "version": 2
         },
         {
+            "changeset": 8386488,
             "id": 27789510,
             "nodes": [
                 305128326,
@@ -2232,9 +2413,14 @@
             "tags": {
                 "highway": "footway"
             },
-            "type": "way"
+            "timestamp": "2011-06-09T09:04:51Z",
+            "type": "way",
+            "uid": 62512,
+            "user": "Cristian Draghici",
+            "version": 4
         },
         {
+            "changeset": 25132044,
             "id": 27789575,
             "nodes": [
                 305128280,
@@ -2270,9 +2456,14 @@
             "tags": {
                 "highway": "path"
             },
-            "type": "way"
+            "timestamp": "2014-08-31T07:47:41Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 4
         },
         {
+            "changeset": 22743419,
             "id": 27789693,
             "nodes": [
                 305052200,
@@ -2362,9 +2553,14 @@
                 "highway": "unclassified",
                 "surface": "unpaved"
             },
-            "type": "way"
+            "timestamp": "2014-06-04T20:58:31Z",
+            "type": "way",
+            "uid": 981872,
+            "user": "b374",
+            "version": 5
         },
         {
+            "changeset": 22743419,
             "id": 27789701,
             "nodes": [
                 305129986,
@@ -2405,9 +2601,14 @@
                 "highway": "unclassified",
                 "surface": "unpaved"
             },
-            "type": "way"
+            "timestamp": "2014-06-04T20:58:29Z",
+            "type": "way",
+            "uid": 981872,
+            "user": "b374",
+            "version": 3
         },
         {
+            "changeset": 389185,
             "id": 27790630,
             "nodes": [
                 305040965,
@@ -2426,9 +2627,14 @@
                 "created_by": "Potlatch 0.10e",
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2008-10-17T12:11:48Z",
+            "type": "way",
+            "uid": 30383,
+            "user": "alex-map",
+            "version": 3
         },
         {
+            "changeset": 22743419,
             "id": 27790638,
             "nodes": [
                 305044995,
@@ -2659,9 +2865,14 @@
                 "highway": "footway",
                 "ref": "1"
             },
-            "type": "way"
+            "timestamp": "2014-06-04T20:58:31Z",
+            "type": "way",
+            "uid": 981872,
+            "user": "b374",
+            "version": 5
         },
         {
+            "changeset": 21758601,
             "id": 65288173,
             "nodes": [
                 798121559,
@@ -2781,9 +2992,14 @@
                 "ref": "DJ646A",
                 "surface": "asphalt"
             },
-            "type": "way"
+            "timestamp": "2014-04-17T21:24:26Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 8
         },
         {
+            "changeset": 11310369,
             "id": 65288198,
             "nodes": [
                 305045395,
@@ -2852,9 +3068,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2012-04-15T13:40:18Z",
+            "type": "way",
+            "uid": 65814,
+            "user": "indreias",
+            "version": 3
         },
         {
+            "changeset": 16998684,
             "id": 65288221,
             "nodes": [
                 798124947,
@@ -2867,9 +3088,14 @@
                 "highway": "residential",
                 "maxspeed": "RO:urban"
             },
-            "type": "way"
+            "timestamp": "2013-07-18T11:36:26Z",
+            "type": "way",
+            "uid": 887976,
+            "user": "RazvanEduard",
+            "version": 2
         },
         {
+            "changeset": 21590356,
             "id": 65288287,
             "nodes": [
                 305043050,
@@ -2975,9 +3201,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-04-09T14:31:10Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 5
         },
         {
+            "changeset": 21053605,
             "id": 65288458,
             "nodes": [
                 305043395,
@@ -3035,9 +3266,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:30:23Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 3
         },
         {
+            "changeset": 11311759,
             "id": 65288469,
             "nodes": [
                 305042401,
@@ -3066,9 +3302,14 @@
                 "highway": "track",
                 "history": "Retrieved from v3"
             },
-            "type": "way"
+            "timestamp": "2012-04-15T15:35:43Z",
+            "type": "way",
+            "uid": 65814,
+            "user": "indreias",
+            "version": 7
         },
         {
+            "changeset": 22743419,
             "id": 65288509,
             "nodes": [
                 798141914,
@@ -3125,9 +3366,14 @@
                 "highway": "unclassified",
                 "surface": "unpaved"
             },
-            "type": "way"
+            "timestamp": "2014-06-04T20:58:30Z",
+            "type": "way",
+            "uid": 981872,
+            "user": "b374",
+            "version": 3
         },
         {
+            "changeset": 8083852,
             "id": 65288520,
             "nodes": [
                 798142061,
@@ -3170,9 +3416,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2011-05-08T15:29:47Z",
+            "type": "way",
+            "uid": 62512,
+            "user": "Cristian Draghici",
+            "version": 3
         },
         {
+            "changeset": 8083852,
             "id": 65288532,
             "nodes": [
                 798143487,
@@ -3186,9 +3437,14 @@
             "tags": {
                 "highway": "path"
             },
-            "type": "way"
+            "timestamp": "2011-05-08T15:29:47Z",
+            "type": "way",
+            "uid": 62512,
+            "user": "Cristian Draghici",
+            "version": 3
         },
         {
+            "changeset": 8083852,
             "id": 65288539,
             "nodes": [
                 798145051,
@@ -3236,9 +3492,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2011-05-08T15:29:50Z",
+            "type": "way",
+            "uid": 62512,
+            "user": "Cristian Draghici",
+            "version": 3
         },
         {
+            "changeset": 5119597,
             "id": 65288702,
             "nodes": [
                 798153087,
@@ -3287,9 +3548,14 @@
             "tags": {
                 "highway": "footway"
             },
-            "type": "way"
+            "timestamp": "2010-07-01T10:47:55Z",
+            "type": "way",
+            "uid": 30383,
+            "user": "alex-map",
+            "version": 1
         },
         {
+            "changeset": 8842608,
             "id": 84648404,
             "nodes": [
                 983327066,
@@ -3351,9 +3617,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-07-27T11:30:30Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 12428110,
             "id": 84650746,
             "nodes": [
                 983340139,
@@ -3680,9 +3951,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2012-07-22T08:42:22Z",
+            "type": "way",
+            "uid": 207942,
+            "user": "shnitzy",
+            "version": 3
         },
         {
+            "changeset": 8842608,
             "id": 84651683,
             "nodes": [
                 983343297,
@@ -3773,9 +4049,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-07-27T11:31:41Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 15832966,
             "id": 84651740,
             "nodes": [
                 983344129,
@@ -4186,9 +4467,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2013-04-23T07:15:26Z",
+            "type": "way",
+            "uid": 65814,
+            "user": "indreias",
+            "version": 3
         },
         {
+            "changeset": 8842608,
             "id": 84652085,
             "nodes": [
                 983352062,
@@ -4331,9 +4617,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-07-27T11:32:54Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 9112928,
             "id": 84977560,
             "nodes": [
                 986375867,
@@ -4446,9 +4737,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-08-24T14:26:27Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 9975993,
             "id": 85552600,
             "nodes": [
                 992514461,
@@ -4585,9 +4881,14 @@
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006",
                 "wood": "coniferous"
             },
-            "type": "way"
+            "timestamp": "2011-11-28T14:33:59Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 9984683,
             "id": 85760331,
             "nodes": [
                 995485361,
@@ -4721,9 +5022,14 @@
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006",
                 "wood": "mixed"
             },
-            "type": "way"
+            "timestamp": "2011-11-29T09:09:00Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 26569248,
             "id": 85763386,
             "nodes": [
                 995503609,
@@ -5094,9 +5400,14 @@
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006",
                 "wood": "mixed"
             },
-            "type": "way"
+            "timestamp": "2014-11-05T11:59:53Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 5
         },
         {
+            "changeset": 19319667,
             "id": 85763527,
             "nodes": [
                 995505411,
@@ -5310,9 +5621,14 @@
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006",
                 "wood": "mixed"
             },
-            "type": "way"
+            "timestamp": "2013-12-07T10:02:13Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 3
         },
         {
+            "changeset": 21344387,
             "id": 85763538,
             "nodes": [
                 983894260,
@@ -5873,9 +6189,14 @@
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006",
                 "wood": "mixed"
             },
-            "type": "way"
+            "timestamp": "2014-03-27T13:08:22Z",
+            "type": "way",
+            "uid": 1923271,
+            "user": "OSM_Blue",
+            "version": 7
         },
         {
+            "changeset": 19328854,
             "id": 85763563,
             "nodes": [
                 983894210,
@@ -6966,9 +7287,14 @@
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006",
                 "wood": "mixed"
             },
-            "type": "way"
+            "timestamp": "2013-12-07T20:15:59Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 10
         },
         {
+            "changeset": 9990642,
             "id": 86144349,
             "nodes": [
                 983352343,
@@ -7025,9 +7351,14 @@
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006",
                 "wood": "deciduous"
             },
-            "type": "way"
+            "timestamp": "2011-11-29T19:11:49Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 9990642,
             "id": 86144364,
             "nodes": [
                 999970526,
@@ -7150,9 +7481,14 @@
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006",
                 "wood": "deciduous"
             },
-            "type": "way"
+            "timestamp": "2011-11-29T19:11:52Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 9990642,
             "id": 86145361,
             "nodes": [
                 999984847,
@@ -7473,9 +7809,14 @@
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006",
                 "wood": "deciduous"
             },
-            "type": "way"
+            "timestamp": "2011-11-29T19:12:48Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 9990642,
             "id": 86187610,
             "nodes": [
                 992610669,
@@ -7612,9 +7953,14 @@
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006",
                 "wood": "deciduous"
             },
-            "type": "way"
+            "timestamp": "2011-11-29T19:43:51Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 9990642,
             "id": 86188601,
             "nodes": [
                 992609015,
@@ -8336,9 +8682,14 @@
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006",
                 "wood": "deciduous"
             },
-            "type": "way"
+            "timestamp": "2011-11-29T20:01:51Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 9990642,
             "id": 86201919,
             "nodes": [
                 1000597979,
@@ -8920,9 +9271,14 @@
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006",
                 "wood": "deciduous"
             },
-            "type": "way"
+            "timestamp": "2011-11-29T20:34:09Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 19328620,
             "id": 86204282,
             "nodes": [
                 983894239,
@@ -9023,9 +9379,14 @@
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006",
                 "wood": "deciduous"
             },
-            "type": "way"
+            "timestamp": "2013-12-07T20:01:22Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 3
         },
         {
+            "changeset": 10048319,
             "id": 86766388,
             "nodes": [
                 1000460681,
@@ -9423,9 +9784,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-06T12:55:37Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 10048319,
             "id": 86768126,
             "nodes": [
                 1009308791,
@@ -9481,9 +9847,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-06T12:59:00Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 10048319,
             "id": 86769072,
             "nodes": [
                 1009313437,
@@ -9622,9 +9993,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-06T12:59:54Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 12428110,
             "id": 86769935,
             "nodes": [
                 1009318818,
@@ -10219,9 +10595,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2012-07-22T08:42:24Z",
+            "type": "way",
+            "uid": 207942,
+            "user": "shnitzy",
+            "version": 3
         },
         {
+            "changeset": 10056814,
             "id": 86949030,
             "nodes": [
                 1009319640,
@@ -10302,9 +10683,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-07T11:14:49Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 10056814,
             "id": 86949051,
             "nodes": [
                 1011549833,
@@ -10383,9 +10769,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-07T11:14:57Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 10056814,
             "id": 86949173,
             "nodes": [
                 1000460718,
@@ -10471,9 +10862,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-07T11:15:29Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 10056814,
             "id": 86949366,
             "nodes": [
                 1000460879,
@@ -10528,9 +10924,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-07T11:16:22Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 10056814,
             "id": 86949764,
             "nodes": [
                 1011555956,
@@ -10635,9 +11036,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-07T11:18:33Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 10056814,
             "id": 86950314,
             "nodes": [
                 1000680922,
@@ -10711,9 +11117,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-07T11:19:58Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 10056814,
             "id": 86967486,
             "nodes": [
                 1011713319,
@@ -10867,9 +11278,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-07T12:09:10Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 10213365,
             "id": 87324903,
             "nodes": [
                 999970011,
@@ -10920,9 +11336,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-27T08:37:58Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 10221756,
             "id": 87572550,
             "nodes": [
                 983343527,
@@ -11066,9 +11487,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-28T03:19:48Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 10221756,
             "id": 87572816,
             "nodes": [
                 1018786725,
@@ -11170,9 +11596,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-28T03:20:39Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 10221756,
             "id": 87572823,
             "nodes": [
                 1018787124,
@@ -11257,9 +11688,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-28T03:20:51Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 10221756,
             "id": 87572827,
             "nodes": [
                 1000460503,
@@ -11369,9 +11805,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-28T03:20:57Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 10221756,
             "id": 87575238,
             "nodes": [
                 1018826450,
@@ -11690,9 +12131,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-28T03:35:22Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 10231239,
             "id": 87825522,
             "nodes": [
                 1018786732,
@@ -11769,9 +12215,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-28T23:50:24Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 10231239,
             "id": 87826068,
             "nodes": [
                 1000680680,
@@ -11827,9 +12278,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-28T23:52:35Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 10231239,
             "id": 87826071,
             "nodes": [
                 1000681058,
@@ -11942,9 +12398,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-28T23:52:42Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 10231239,
             "id": 87826077,
             "nodes": [
                 986376348,
@@ -12032,9 +12493,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-28T23:52:47Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 10231239,
             "id": 87826250,
             "nodes": [
                 992515089,
@@ -12102,9 +12568,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-28T23:53:54Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 10231239,
             "id": 87826975,
             "nodes": [
                 1000679854,
@@ -12405,9 +12876,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-29T00:00:05Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 10231239,
             "id": 87827218,
             "nodes": [
                 1000683106,
@@ -12474,9 +12950,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-29T00:01:41Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 10236754,
             "id": 87905762,
             "nodes": [
                 1018787155,
@@ -12538,9 +13019,14 @@
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006",
                 "wood": "mixed"
             },
-            "type": "way"
+            "timestamp": "2011-12-29T16:10:41Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 10236754,
             "id": 87905942,
             "nodes": [
                 1000681024,
@@ -12673,9 +13159,14 @@
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006",
                 "wood": "mixed"
             },
-            "type": "way"
+            "timestamp": "2011-12-29T16:19:13Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 10236754,
             "id": 87905965,
             "nodes": [
                 995485569,
@@ -12768,9 +13259,14 @@
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006",
                 "wood": "mixed"
             },
-            "type": "way"
+            "timestamp": "2011-12-29T16:20:17Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 10236754,
             "id": 87906004,
             "nodes": [
                 1000681069,
@@ -12819,9 +13315,14 @@
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006",
                 "wood": "mixed"
             },
-            "type": "way"
+            "timestamp": "2011-12-29T16:21:42Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 10236754,
             "id": 87906334,
             "nodes": [
                 992608590,
@@ -12863,9 +13364,14 @@
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006",
                 "wood": "mixed"
             },
-            "type": "way"
+            "timestamp": "2011-12-29T16:27:36Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 10236754,
             "id": 87906366,
             "nodes": [
                 1000390629,
@@ -12930,9 +13436,14 @@
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006",
                 "wood": "mixed"
             },
-            "type": "way"
+            "timestamp": "2011-12-29T16:29:16Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 10236754,
             "id": 87906397,
             "nodes": [
                 992608644,
@@ -12969,9 +13480,14 @@
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006",
                 "wood": "mixed"
             },
-            "type": "way"
+            "timestamp": "2011-12-29T16:30:19Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 10236754,
             "id": 87906402,
             "nodes": [
                 1021990666,
@@ -13144,9 +13660,14 @@
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006",
                 "wood": "mixed"
             },
-            "type": "way"
+            "timestamp": "2011-12-29T16:30:34Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 10236754,
             "id": 87907244,
             "nodes": [
                 992601657,
@@ -13198,9 +13719,14 @@
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006",
                 "wood": "mixed"
             },
-            "type": "way"
+            "timestamp": "2011-12-29T16:43:54Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 10241817,
             "id": 87985336,
             "nodes": [
                 992604894,
@@ -14224,9 +14750,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-30T03:19:52Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 2
         },
         {
+            "changeset": 10242030,
             "id": 88021578,
             "nodes": [
                 1000680859,
@@ -14382,9 +14913,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-30T04:43:52Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 3
         },
         {
+            "changeset": 10242030,
             "id": 88021801,
             "nodes": [
                 1000680390,
@@ -14467,9 +15003,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-30T04:45:24Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 3
         },
         {
+            "changeset": 10242030,
             "id": 88021810,
             "nodes": [
                 992514774,
@@ -14592,9 +15133,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-30T04:45:43Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 3
         },
         {
+            "changeset": 10242030,
             "id": 88022594,
             "nodes": [
                 1000683645,
@@ -14654,9 +15200,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-30T04:49:17Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 3
         },
         {
+            "changeset": 10242030,
             "id": 88023380,
             "nodes": [
                 1021988183,
@@ -14724,9 +15275,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-30T04:52:58Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 3
         },
         {
+            "changeset": 10242030,
             "id": 88024031,
             "nodes": [
                 1000681273,
@@ -15057,9 +15613,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-30T04:53:57Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 3
         },
         {
+            "changeset": 10242030,
             "id": 88024744,
             "nodes": [
                 1022748692,
@@ -15225,9 +15786,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-30T04:55:42Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 3
         },
         {
+            "changeset": 10242030,
             "id": 88024854,
             "nodes": [
                 992610448,
@@ -15366,9 +15932,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-30T04:56:17Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 3
         },
         {
+            "changeset": 10242030,
             "id": 88025087,
             "nodes": [
                 995507502,
@@ -15433,9 +16004,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-30T04:56:48Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 3
         },
         {
+            "changeset": 10242030,
             "id": 88025261,
             "nodes": [
                 1022747429,
@@ -15521,9 +16097,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-30T04:57:14Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 3
         },
         {
+            "changeset": 10242030,
             "id": 88025804,
             "nodes": [
                 992609499,
@@ -16749,9 +17330,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-30T04:58:56Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 3
         },
         {
+            "changeset": 10242030,
             "id": 88025949,
             "nodes": [
                 1022748015,
@@ -17099,9 +17685,14 @@
                 "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
                 "source:ro": "Agen\u0163ia European\u0103 de Mediu, CORINE Land Cover, 2006"
             },
-            "type": "way"
+            "timestamp": "2011-12-30T04:59:25Z",
+            "type": "way",
+            "uid": 358072,
+            "user": "Romania CLC import bot",
+            "version": 3
         },
         {
+            "changeset": 21758601,
             "id": 92516815,
             "nodes": [
                 305040864,
@@ -17255,9 +17846,14 @@
                 "surface": "unpaved",
                 "tracktype": "grade2"
             },
-            "type": "way"
+            "timestamp": "2014-04-17T21:24:28Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 4
         },
         {
+            "changeset": 21758601,
             "id": 92526540,
             "nodes": [
                 798121559,
@@ -17306,9 +17902,14 @@
                 "ref": "DJ646",
                 "surface": "asphalt"
             },
-            "type": "way"
+            "timestamp": "2014-04-17T21:24:30Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 3
         },
         {
+            "changeset": 21500473,
             "id": 92528388,
             "nodes": [
                 1074119485,
@@ -17321,9 +17922,14 @@
                 "highway": "secondary",
                 "ref": "DJ646A"
             },
-            "type": "way"
+            "timestamp": "2014-04-04T17:57:42Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 4
         },
         {
+            "changeset": 8083852,
             "id": 112348780,
             "nodes": [
                 798144583,
@@ -17488,9 +18094,14 @@
             "tags": {
                 "highway": "path"
             },
-            "type": "way"
+            "timestamp": "2011-05-08T15:29:42Z",
+            "type": "way",
+            "uid": 62512,
+            "user": "Cristian Draghici",
+            "version": 1
         },
         {
+            "changeset": 8083852,
             "id": 112348782,
             "nodes": [
                 1277174331,
@@ -17526,9 +18137,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2011-05-08T15:29:44Z",
+            "type": "way",
+            "uid": 62512,
+            "user": "Cristian Draghici",
+            "version": 1
         },
         {
+            "changeset": 8083852,
             "id": 112348784,
             "nodes": [
                 1277174331,
@@ -17580,9 +18196,14 @@
             "tags": {
                 "highway": "path"
             },
-            "type": "way"
+            "timestamp": "2011-05-08T15:29:45Z",
+            "type": "way",
+            "uid": 62512,
+            "user": "Cristian Draghici",
+            "version": 1
         },
         {
+            "changeset": 8083852,
             "id": 112348788,
             "nodes": [
                 1277174584,
@@ -17594,9 +18215,14 @@
             "tags": {
                 "highway": "path"
             },
-            "type": "way"
+            "timestamp": "2011-05-08T15:29:46Z",
+            "type": "way",
+            "uid": 62512,
+            "user": "Cristian Draghici",
+            "version": 1
         },
         {
+            "changeset": 11310592,
             "id": 116913105,
             "nodes": [
                 305047394,
@@ -17610,9 +18236,14 @@
             "tags": {
                 "highway": "footway"
             },
-            "type": "way"
+            "timestamp": "2012-04-15T13:58:37Z",
+            "type": "way",
+            "uid": 65814,
+            "user": "indreias",
+            "version": 2
         },
         {
+            "changeset": 8386488,
             "id": 116913106,
             "nodes": [
                 305050666,
@@ -17637,9 +18268,14 @@
             "tags": {
                 "highway": "footway"
             },
-            "type": "way"
+            "timestamp": "2011-06-09T09:04:33Z",
+            "type": "way",
+            "uid": 62512,
+            "user": "Cristian Draghici",
+            "version": 1
         },
         {
+            "changeset": 8386488,
             "id": 116913107,
             "nodes": [
                 305047306,
@@ -17656,9 +18292,14 @@
             "tags": {
                 "highway": "footway"
             },
-            "type": "way"
+            "timestamp": "2011-06-09T09:04:33Z",
+            "type": "way",
+            "uid": 62512,
+            "user": "Cristian Draghici",
+            "version": 1
         },
         {
+            "changeset": 11311759,
             "id": 116913108,
             "nodes": [
                 305045503,
@@ -17736,9 +18377,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2012-04-15T15:32:30Z",
+            "type": "way",
+            "uid": 65814,
+            "user": "indreias",
+            "version": 2
         },
         {
+            "changeset": 8386488,
             "id": 116913109,
             "nodes": [
                 305047314,
@@ -17771,9 +18417,14 @@
             "tags": {
                 "highway": "footway"
             },
-            "type": "way"
+            "timestamp": "2011-06-09T09:04:35Z",
+            "type": "way",
+            "uid": 62512,
+            "user": "Cristian Draghici",
+            "version": 1
         },
         {
+            "changeset": 8386488,
             "id": 116913110,
             "nodes": [
                 305128307,
@@ -17799,9 +18450,14 @@
             "tags": {
                 "highway": "footway"
             },
-            "type": "way"
+            "timestamp": "2011-06-09T09:04:35Z",
+            "type": "way",
+            "uid": 62512,
+            "user": "Cristian Draghici",
+            "version": 1
         },
         {
+            "changeset": 8386488,
             "id": 116913111,
             "nodes": [
                 305128326,
@@ -17837,9 +18493,14 @@
             "tags": {
                 "highway": "footway"
             },
-            "type": "way"
+            "timestamp": "2011-06-09T09:04:36Z",
+            "type": "way",
+            "uid": 62512,
+            "user": "Cristian Draghici",
+            "version": 1
         },
         {
+            "changeset": 22743419,
             "id": 116913112,
             "nodes": [
                 305132760,
@@ -17900,9 +18561,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-06-04T20:58:30Z",
+            "type": "way",
+            "uid": 981872,
+            "user": "b374",
+            "version": 3
         },
         {
+            "changeset": 8386488,
             "id": 116913113,
             "nodes": [
                 305045370,
@@ -17931,9 +18597,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2011-06-09T09:04:38Z",
+            "type": "way",
+            "uid": 62512,
+            "user": "Cristian Draghici",
+            "version": 1
         },
         {
+            "changeset": 8386488,
             "id": 116913114,
             "nodes": [
                 305128280,
@@ -17965,9 +18636,14 @@
             "tags": {
                 "highway": "footway"
             },
-            "type": "way"
+            "timestamp": "2011-06-09T09:04:38Z",
+            "type": "way",
+            "uid": 62512,
+            "user": "Cristian Draghici",
+            "version": 1
         },
         {
+            "changeset": 16864441,
             "id": 116913115,
             "nodes": [
                 305051109,
@@ -18010,9 +18686,14 @@
                 "highway": "secondary",
                 "ref": "DJ654"
             },
-            "type": "way"
+            "timestamp": "2013-07-07T18:53:56Z",
+            "type": "way",
+            "uid": 323389,
+            "user": "Michael_H",
+            "version": 3
         },
         {
+            "changeset": 11052582,
             "id": 116913119,
             "nodes": [
                 305047343,
@@ -18067,9 +18748,14 @@
             "tags": {
                 "highway": "footway"
             },
-            "type": "way"
+            "timestamp": "2012-03-21T14:15:09Z",
+            "type": "way",
+            "uid": 65814,
+            "user": "indreias",
+            "version": 2
         },
         {
+            "changeset": 8386488,
             "id": 116913124,
             "nodes": [
                 305048047,
@@ -18133,9 +18819,14 @@
             "tags": {
                 "highway": "footway"
             },
-            "type": "way"
+            "timestamp": "2011-06-09T09:04:39Z",
+            "type": "way",
+            "uid": 62512,
+            "user": "Cristian Draghici",
+            "version": 1
         },
         {
+            "changeset": 8386488,
             "id": 116913127,
             "nodes": [
                 305129986,
@@ -18159,9 +18850,14 @@
             "tags": {
                 "highway": "footway"
             },
-            "type": "way"
+            "timestamp": "2011-06-09T09:04:40Z",
+            "type": "way",
+            "uid": 62512,
+            "user": "Cristian Draghici",
+            "version": 1
         },
         {
+            "changeset": 22743419,
             "id": 116913129,
             "nodes": [
                 305129894,
@@ -18228,9 +18924,14 @@
                 "highway": "unclassified",
                 "surface": "unpaved"
             },
-            "type": "way"
+            "timestamp": "2014-06-04T20:58:30Z",
+            "type": "way",
+            "uid": 981872,
+            "user": "b374",
+            "version": 2
         },
         {
+            "changeset": 8386488,
             "id": 116913132,
             "nodes": [
                 305045479,
@@ -18255,9 +18956,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2011-06-09T09:04:41Z",
+            "type": "way",
+            "uid": 62512,
+            "user": "Cristian Draghici",
+            "version": 1
         },
         {
+            "changeset": 8386488,
             "id": 116913133,
             "nodes": [
                 305047339,
@@ -18269,9 +18975,14 @@
             "tags": {
                 "highway": "footway"
             },
-            "type": "way"
+            "timestamp": "2011-06-09T09:04:42Z",
+            "type": "way",
+            "uid": 62512,
+            "user": "Cristian Draghici",
+            "version": 1
         },
         {
+            "changeset": 11052582,
             "id": 156190889,
             "nodes": [
                 1684718528,
@@ -18317,9 +19028,14 @@
             "tags": {
                 "highway": "path"
             },
-            "type": "way"
+            "timestamp": "2012-03-21T14:15:07Z",
+            "type": "way",
+            "uid": 65814,
+            "user": "indreias",
+            "version": 1
         },
         {
+            "changeset": 11310369,
             "id": 159677038,
             "nodes": [
                 305045461,
@@ -18328,9 +19044,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2012-04-15T13:40:17Z",
+            "type": "way",
+            "uid": 65814,
+            "user": "indreias",
+            "version": 1
         },
         {
+            "changeset": 11310369,
             "id": 159677039,
             "nodes": [
                 305045462,
@@ -18350,9 +19071,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2012-04-15T13:40:17Z",
+            "type": "way",
+            "uid": 65814,
+            "user": "indreias",
+            "version": 1
         },
         {
+            "changeset": 11310592,
             "id": 159678855,
             "nodes": [
                 305047400,
@@ -18367,9 +19093,14 @@
             "tags": {
                 "highway": "footway"
             },
-            "type": "way"
+            "timestamp": "2012-04-15T13:58:34Z",
+            "type": "way",
+            "uid": 65814,
+            "user": "indreias",
+            "version": 1
         },
         {
+            "changeset": 11311015,
             "id": 159681824,
             "nodes": [
                 305043236,
@@ -18378,9 +19109,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2012-04-15T14:29:48Z",
+            "type": "way",
+            "uid": 65814,
+            "user": "indreias",
+            "version": 1
         },
         {
+            "changeset": 21053605,
             "id": 159681826,
             "nodes": [
                 305043239,
@@ -18488,9 +19224,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:30:22Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 2
         },
         {
+            "changeset": 20944841,
             "id": 159685152,
             "nodes": [
                 305131058,
@@ -18853,9 +19594,14 @@
                 "highway": "footway",
                 "source": "www.buila.ro"
             },
-            "type": "way"
+            "timestamp": "2014-03-06T07:50:05Z",
+            "type": "way",
+            "uid": 887976,
+            "user": "RazvanEduard",
+            "version": 5
         },
         {
+            "changeset": 11311328,
             "id": 159685154,
             "nodes": [
                 305131058,
@@ -18868,9 +19614,14 @@
             "tags": {
                 "highway": "footway"
             },
-            "type": "way"
+            "timestamp": "2012-04-15T14:57:30Z",
+            "type": "way",
+            "uid": 65814,
+            "user": "indreias",
+            "version": 1
         },
         {
+            "changeset": 11311759,
             "id": 159690292,
             "nodes": [
                 305045618,
@@ -18949,9 +19700,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2012-04-15T15:32:28Z",
+            "type": "way",
+            "uid": 65814,
+            "user": "indreias",
+            "version": 1
         },
         {
+            "changeset": 11311759,
             "id": 159691494,
             "nodes": [
                 305124815,
@@ -19050,9 +19806,14 @@
                 "highway": "track",
                 "history": "Retrieved from v3"
             },
-            "type": "way"
+            "timestamp": "2012-04-15T15:35:42Z",
+            "type": "way",
+            "uid": 65814,
+            "user": "indreias",
+            "version": 1
         },
         {
+            "changeset": 22743419,
             "id": 159693577,
             "nodes": [
                 305126798,
@@ -19167,9 +19928,14 @@
                 "highway": "track",
                 "surface": "unpaved"
             },
-            "type": "way"
+            "timestamp": "2014-06-04T20:58:29Z",
+            "type": "way",
+            "uid": 981872,
+            "user": "b374",
+            "version": 2
         },
         {
+            "changeset": 21758601,
             "id": 167057730,
             "nodes": [
                 1074119485,
@@ -19205,9 +19971,14 @@
                 "ref": "DJ646A",
                 "surface": "asphalt"
             },
-            "type": "way"
+            "timestamp": "2014-04-17T21:24:28Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 9
         },
         {
+            "changeset": 22524185,
             "id": 231052970,
             "nodes": [
                 1987677573,
@@ -19482,9 +20253,14 @@
                 "highway": "unclassified",
                 "surface": "unpaved"
             },
-            "type": "way"
+            "timestamp": "2014-05-24T13:36:39Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 2
         },
         {
+            "changeset": 19944641,
             "id": 246786555,
             "nodes": [
                 2537834087,
@@ -19518,9 +20294,14 @@
                 "highway": "residential",
                 "maxspeed": "RO:urban"
             },
-            "type": "way"
+            "timestamp": "2014-01-11T23:14:11Z",
+            "type": "way",
+            "uid": 204685,
+            "user": "Flaviu",
+            "version": 3
         },
         {
+            "changeset": 21590220,
             "id": 246787237,
             "nodes": [
                 2537840686,
@@ -19553,9 +20334,14 @@
                 "highway": "residential",
                 "maxspeed": "RO:urban"
             },
-            "type": "way"
+            "timestamp": "2014-04-09T14:22:34Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 3
         },
         {
+            "changeset": 19944641,
             "id": 246787238,
             "nodes": [
                 2537840645,
@@ -19567,9 +20353,14 @@
                 "highway": "residential",
                 "maxspeed": "RO:urban"
             },
-            "type": "way"
+            "timestamp": "2014-01-11T23:15:03Z",
+            "type": "way",
+            "uid": 204685,
+            "user": "Flaviu",
+            "version": 2
         },
         {
+            "changeset": 19944641,
             "id": 246787240,
             "nodes": [
                 2537840557,
@@ -19588,9 +20379,14 @@
                 "maxspeed": "RO:urban",
                 "surface": "asphalt"
             },
-            "type": "way"
+            "timestamp": "2014-01-11T23:12:42Z",
+            "type": "way",
+            "uid": 204685,
+            "user": "Flaviu",
+            "version": 2
         },
         {
+            "changeset": 19944641,
             "id": 246787241,
             "nodes": [
                 2537840633,
@@ -19610,9 +20406,14 @@
                 "highway": "residential",
                 "maxspeed": "RO:urban"
             },
-            "type": "way"
+            "timestamp": "2014-01-11T23:12:55Z",
+            "type": "way",
+            "uid": 204685,
+            "user": "Flaviu",
+            "version": 2
         },
         {
+            "changeset": 19944641,
             "id": 246787242,
             "nodes": [
                 2537840610,
@@ -19630,9 +20431,14 @@
                 "highway": "residential",
                 "maxspeed": "RO:urban"
             },
-            "type": "way"
+            "timestamp": "2014-01-11T23:12:38Z",
+            "type": "way",
+            "uid": 204685,
+            "user": "Flaviu",
+            "version": 2
         },
         {
+            "changeset": 21590220,
             "id": 246787265,
             "nodes": [
                 2537840710,
@@ -19667,9 +20473,14 @@
                 "ref": "DJ646A",
                 "surface": "asphalt"
             },
-            "type": "way"
+            "timestamp": "2014-04-09T14:22:35Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 3
         },
         {
+            "changeset": 19328620,
             "id": 250624612,
             "nodes": [
                 2570305559,
@@ -19700,9 +20511,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2013-12-07T20:01:15Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 19461726,
             "id": 251901236,
             "nodes": [
                 2580559189,
@@ -19779,9 +20595,14 @@
                 "ref": "DJ654",
                 "surface": "dirt"
             },
-            "type": "way"
+            "timestamp": "2013-12-15T10:41:33Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 1
         },
         {
+            "changeset": 26524360,
             "id": 264506239,
             "nodes": [
                 2701796749,
@@ -19807,9 +20628,14 @@
                 "tourism": "attraction",
                 "wikipedia:ro": "Biserica Bolni\u021bei M\u0103n\u0103stirii Hurezi"
             },
-            "type": "way"
+            "timestamp": "2014-11-03T12:20:38Z",
+            "type": "way",
+            "uid": 155698,
+            "user": "ibz",
+            "version": 3
         },
         {
+            "changeset": 20928809,
             "id": 264579469,
             "nodes": [
                 2702419150,
@@ -19838,9 +20664,14 @@
                 "maxspeed": "50",
                 "surface": "asphalt"
             },
-            "type": "way"
+            "timestamp": "2014-03-05T12:04:29Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 1
         },
         {
+            "changeset": 20928809,
             "id": 264579471,
             "nodes": [
                 2702419013,
@@ -19866,9 +20697,14 @@
                 "maxspeed": "50",
                 "surface": "asphalt"
             },
-            "type": "way"
+            "timestamp": "2014-03-05T12:04:29Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 1
         },
         {
+            "changeset": 20928809,
             "id": 264579476,
             "nodes": [
                 2702419507,
@@ -19890,9 +20726,14 @@
                 "maxspeed": "50",
                 "surface": "gravel"
             },
-            "type": "way"
+            "timestamp": "2014-03-05T12:04:29Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 1
         },
         {
+            "changeset": 20928809,
             "id": 264579482,
             "nodes": [
                 2702419319,
@@ -19936,9 +20777,14 @@
                 "maxspeed": "50",
                 "surface": "gravel"
             },
-            "type": "way"
+            "timestamp": "2014-03-05T12:04:30Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 1
         },
         {
+            "changeset": 20928809,
             "id": 264579490,
             "nodes": [
                 2702419430,
@@ -19949,9 +20795,14 @@
                 "maxspeed": "50",
                 "surface": "gravel"
             },
-            "type": "way"
+            "timestamp": "2014-03-05T12:04:30Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 1
         },
         {
+            "changeset": 20928809,
             "id": 264579493,
             "nodes": [
                 2702418993,
@@ -19962,9 +20813,14 @@
                 "maxspeed": "50",
                 "surface": "asphalt"
             },
-            "type": "way"
+            "timestamp": "2014-03-05T12:04:30Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 1
         },
         {
+            "changeset": 20938535,
             "id": 264645946,
             "nodes": [
                 2703046461,
@@ -19990,9 +20846,14 @@
                 "maxspeed": "50",
                 "surface": "gravel"
             },
-            "type": "way"
+            "timestamp": "2014-03-05T21:02:11Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 1
         },
         {
+            "changeset": 24033130,
             "id": 264646065,
             "nodes": [
                 2703047550,
@@ -20311,9 +21172,14 @@
                 "maxspeed": "50",
                 "surface": "gravel"
             },
-            "type": "way"
+            "timestamp": "2014-07-08T19:43:09Z",
+            "type": "way",
+            "uid": 1886394,
+            "user": "Aly0sha",
+            "version": 5
         },
         {
+            "changeset": 22743419,
             "id": 265694780,
             "nodes": [
                 2713148691,
@@ -20349,9 +21215,14 @@
                 "highway": "unclassified",
                 "surface": "unpaved"
             },
-            "type": "way"
+            "timestamp": "2014-06-04T20:58:29Z",
+            "type": "way",
+            "uid": 981872,
+            "user": "b374",
+            "version": 3
         },
         {
+            "changeset": 21053114,
             "id": 265694783,
             "nodes": [
                 2713148808,
@@ -20401,9 +21272,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:05:09Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21053114,
             "id": 265694787,
             "nodes": [
                 2713148850,
@@ -20434,9 +21310,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:05:09Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 22743419,
             "id": 265694790,
             "nodes": [
                 2713148898,
@@ -20474,9 +21355,14 @@
                 "highway": "track",
                 "surface": "unpaved"
             },
-            "type": "way"
+            "timestamp": "2014-06-04T20:58:29Z",
+            "type": "way",
+            "uid": 981872,
+            "user": "b374",
+            "version": 3
         },
         {
+            "changeset": 21053239,
             "id": 265695526,
             "nodes": [
                 2713162551,
@@ -20497,9 +21383,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:11:14Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21053239,
             "id": 265695528,
             "nodes": [
                 2713162565,
@@ -20554,9 +21445,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:11:14Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21053239,
             "id": 265695529,
             "nodes": [
                 2713162661,
@@ -20569,9 +21465,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:11:14Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21053239,
             "id": 265695530,
             "nodes": [
                 2713162666,
@@ -20588,9 +21489,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:11:14Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21053239,
             "id": 265695531,
             "nodes": [
                 2713162678,
@@ -20602,9 +21508,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:11:14Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21053239,
             "id": 265695532,
             "nodes": [
                 2713162685,
@@ -20618,9 +21529,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:11:14Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21053239,
             "id": 265695533,
             "nodes": [
                 2713162698,
@@ -20652,9 +21568,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:11:14Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21053239,
             "id": 265695534,
             "nodes": [
                 2713162601,
@@ -20689,9 +21610,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:11:14Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21053605,
             "id": 265699456,
             "nodes": [
                 2713188195,
@@ -20716,9 +21642,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:30:19Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21053605,
             "id": 265699457,
             "nodes": [
                 2713188230,
@@ -20745,9 +21676,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:30:19Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21053605,
             "id": 265699458,
             "nodes": [
                 2713188216,
@@ -20772,9 +21708,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:30:19Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21053840,
             "id": 265699459,
             "nodes": [
                 2713217070,
@@ -20833,9 +21774,14 @@
             "tags": {
                 "waterway": "stream"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:44:20Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 2
         },
         {
+            "changeset": 21053605,
             "id": 265699460,
             "nodes": [
                 2713188401,
@@ -20952,9 +21898,14 @@
             "tags": {
                 "waterway": "stream"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:30:20Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21053605,
             "id": 265699461,
             "nodes": [
                 2713188402,
@@ -21027,9 +21978,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:30:20Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21053605,
             "id": 265699462,
             "nodes": [
                 2713188448,
@@ -21056,9 +22012,14 @@
             "tags": {
                 "waterway": "stream"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:30:20Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21053605,
             "id": 265699463,
             "nodes": [
                 2713188449,
@@ -21090,9 +22051,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:30:20Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21053605,
             "id": 265699464,
             "nodes": [
                 2713188558,
@@ -21148,9 +22114,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:30:20Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21053605,
             "id": 265699465,
             "nodes": [
                 2713188588,
@@ -21250,9 +22221,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:30:21Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21053605,
             "id": 265699466,
             "nodes": [
                 2713188687,
@@ -21294,9 +22270,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:30:21Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21053605,
             "id": 265699467,
             "nodes": [
                 2713188614,
@@ -21336,9 +22317,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:30:21Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21053605,
             "id": 265699468,
             "nodes": [
                 2713188666,
@@ -21351,9 +22337,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:30:21Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21053605,
             "id": 265699469,
             "nodes": [
                 2713188625,
@@ -21366,9 +22357,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:30:21Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21053605,
             "id": 265699470,
             "nodes": [
                 2713188732,
@@ -21383,9 +22379,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:30:21Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21053605,
             "id": 265699471,
             "nodes": [
                 2713188728,
@@ -21399,9 +22400,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:30:21Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21053605,
             "id": 265699472,
             "nodes": [
                 2713188419,
@@ -21430,9 +22436,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:30:22Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21053605,
             "id": 265699473,
             "nodes": [
                 2713188759,
@@ -21464,9 +22475,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:30:22Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21053605,
             "id": 265699474,
             "nodes": [
                 2713188782,
@@ -21492,9 +22508,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:30:22Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21053605,
             "id": 265699475,
             "nodes": [
                 2713188800,
@@ -21511,9 +22532,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:30:22Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21053605,
             "id": 265699476,
             "nodes": [
                 2713188810,
@@ -21528,9 +22554,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:30:22Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21053605,
             "id": 265699477,
             "nodes": [
                 2713188782,
@@ -21546,9 +22577,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:30:22Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21053605,
             "id": 265699478,
             "nodes": [
                 2713188782,
@@ -21567,9 +22603,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:30:22Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21053605,
             "id": 265699479,
             "nodes": [
                 2713188832,
@@ -21581,9 +22622,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:30:22Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21053605,
             "id": 265699480,
             "nodes": [
                 305042264,
@@ -21604,9 +22650,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:30:22Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21053840,
             "id": 265699481,
             "nodes": [
                 2713188849,
@@ -21624,9 +22675,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:44:19Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 2
         },
         {
+            "changeset": 21053605,
             "id": 265699482,
             "nodes": [
                 798136310,
@@ -21640,9 +22696,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:30:22Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21053840,
             "id": 265699483,
             "nodes": [
                 2713188873,
@@ -21661,9 +22722,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:44:20Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 2
         },
         {
+            "changeset": 21053840,
             "id": 265703269,
             "nodes": [
                 2713216973,
@@ -21681,9 +22747,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:44:17Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21053840,
             "id": 265703271,
             "nodes": [
                 305043381,
@@ -21706,9 +22777,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-11T21:44:17Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 21149492,
             "id": 266763787,
             "nodes": [
                 2713148739,
@@ -21726,9 +22802,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-03-17T06:18:25Z",
+            "type": "way",
+            "uid": 887976,
+            "user": "RazvanEduard",
+            "version": 1
         },
         {
+            "changeset": 21171788,
             "id": 267022660,
             "nodes": [
                 2725058834,
@@ -21739,9 +22820,14 @@
                 "highway": "pedestrian",
                 "surface": "paved"
             },
-            "type": "way"
+            "timestamp": "2014-03-18T11:14:31Z",
+            "type": "way",
+            "uid": 1923271,
+            "user": "OSM_Blue",
+            "version": 1
         },
         {
+            "changeset": 21171788,
             "id": 267022661,
             "nodes": [
                 2725058835,
@@ -21753,9 +22839,14 @@
             "tags": {
                 "highway": "footway"
             },
-            "type": "way"
+            "timestamp": "2014-03-18T11:14:31Z",
+            "type": "way",
+            "uid": 1923271,
+            "user": "OSM_Blue",
+            "version": 1
         },
         {
+            "changeset": 21171788,
             "id": 267022676,
             "nodes": [
                 2725058889,
@@ -21783,9 +22874,14 @@
             "tags": {
                 "highway": "service"
             },
-            "type": "way"
+            "timestamp": "2014-03-18T11:14:32Z",
+            "type": "way",
+            "uid": 1923271,
+            "user": "OSM_Blue",
+            "version": 1
         },
         {
+            "changeset": 21231511,
             "id": 267789996,
             "nodes": [
                 2731965919,
@@ -21838,9 +22934,14 @@
             "tags": {
                 "landuse": "meadow"
             },
-            "type": "way"
+            "timestamp": "2014-03-21T18:03:22Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 1
         },
         {
+            "changeset": 21231511,
             "id": 267789999,
             "nodes": [
                 2731966168,
@@ -21915,9 +23016,14 @@
             "tags": {
                 "landuse": "meadow"
             },
-            "type": "way"
+            "timestamp": "2014-03-21T18:03:22Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 1
         },
         {
+            "changeset": 21231511,
             "id": 267790004,
             "nodes": [
                 2731966081,
@@ -21975,9 +23081,14 @@
                 "ref": "DJ654",
                 "surface": "dirt"
             },
-            "type": "way"
+            "timestamp": "2014-03-21T18:03:23Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 1
         },
         {
+            "changeset": 21231511,
             "id": 267790008,
             "nodes": [
                 2731965957,
@@ -21999,9 +23110,14 @@
                 "ref": "DJ654",
                 "surface": "dirt"
             },
-            "type": "way"
+            "timestamp": "2014-03-21T18:03:23Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 1
         },
         {
+            "changeset": 21231511,
             "id": 267790010,
             "nodes": [
                 2731966032,
@@ -22016,9 +23132,14 @@
                 "ref": "DJ654",
                 "surface": "concrete"
             },
-            "type": "way"
+            "timestamp": "2014-03-21T18:03:23Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 1
         },
         {
+            "changeset": 21500473,
             "id": 271843523,
             "nodes": [
                 2767852575,
@@ -22046,9 +23167,14 @@
                 "maxspeed": "50",
                 "surface": "gravel"
             },
-            "type": "way"
+            "timestamp": "2014-04-04T17:57:41Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 1
         },
         {
+            "changeset": 21500473,
             "id": 271843525,
             "nodes": [
                 2767852491,
@@ -22073,9 +23199,14 @@
                 "maxspeed": "50",
                 "surface": "dirt"
             },
-            "type": "way"
+            "timestamp": "2014-04-04T17:57:41Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 1
         },
         {
+            "changeset": 21500473,
             "id": 271843526,
             "nodes": [
                 2767852626,
@@ -22090,9 +23221,14 @@
                 "maxspeed": "50",
                 "surface": "gravel"
             },
-            "type": "way"
+            "timestamp": "2014-04-04T17:57:41Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 1
         },
         {
+            "changeset": 21500473,
             "id": 271843527,
             "nodes": [
                 2767852537,
@@ -22108,9 +23244,14 @@
                 "maxspeed": "50",
                 "surface": "gravel"
             },
-            "type": "way"
+            "timestamp": "2014-04-04T17:57:41Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 1
         },
         {
+            "changeset": 21590356,
             "id": 273064873,
             "nodes": [
                 2779599757,
@@ -22132,9 +23273,14 @@
                 "maxspeed": "50",
                 "surface": "ground"
             },
-            "type": "way"
+            "timestamp": "2014-04-09T14:31:08Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 1
         },
         {
+            "changeset": 21590356,
             "id": 273064875,
             "nodes": [
                 2779599532,
@@ -22161,9 +23307,14 @@
                 "maxspeed": "50",
                 "surface": "gravel"
             },
-            "type": "way"
+            "timestamp": "2014-04-09T14:31:08Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 1
         },
         {
+            "changeset": 21590356,
             "id": 273064876,
             "nodes": [
                 2779599646,
@@ -22235,9 +23386,14 @@
                 "maxspeed": "50",
                 "surface": "asphalt"
             },
-            "type": "way"
+            "timestamp": "2014-04-09T14:31:09Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 1
         },
         {
+            "changeset": 21590356,
             "id": 273064877,
             "nodes": [
                 2779599535,
@@ -22255,9 +23411,14 @@
                 "maxspeed": "50",
                 "surface": "gravel"
             },
-            "type": "way"
+            "timestamp": "2014-04-09T14:31:09Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 1
         },
         {
+            "changeset": 21758601,
             "id": 275118548,
             "nodes": [
                 2797741618,
@@ -22324,9 +23485,14 @@
                 "highway": "track",
                 "tracktype": "grade1"
             },
-            "type": "way"
+            "timestamp": "2014-04-17T21:24:21Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 1
         },
         {
+            "changeset": 21758601,
             "id": 275118572,
             "nodes": [
                 1784645789,
@@ -22414,9 +23580,14 @@
                 "ref": "DJ646A",
                 "surface": "asphalt"
             },
-            "type": "way"
+            "timestamp": "2014-04-17T21:24:24Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 1
         },
         {
+            "changeset": 22523201,
             "id": 283985118,
             "nodes": [
                 2877777243,
@@ -22474,9 +23645,14 @@
             "tags": {
                 "highway": "path"
             },
-            "type": "way"
+            "timestamp": "2014-05-24T12:31:02Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 22523201,
             "id": 283985132,
             "nodes": [
                 2877778845,
@@ -22490,9 +23666,14 @@
             "tags": {
                 "highway": "path"
             },
-            "type": "way"
+            "timestamp": "2014-05-24T12:31:03Z",
+            "type": "way",
+            "uid": 428321,
+            "user": "WRichter",
+            "version": 1
         },
         {
+            "changeset": 28725286,
             "id": 284004738,
             "nodes": [
                 2877907010,
@@ -22636,9 +23817,14 @@
             "tags": {
                 "waterway": "river"
             },
-            "type": "way"
+            "timestamp": "2015-02-09T11:47:56Z",
+            "type": "way",
+            "uid": 378538,
+            "user": "danutzu",
+            "version": 2
         },
         {
+            "changeset": 22743419,
             "id": 286337070,
             "nodes": [
                 2713149856,
@@ -22747,9 +23933,14 @@
                 "highway": "track",
                 "surface": "unpaved"
             },
-            "type": "way"
+            "timestamp": "2014-06-04T20:58:27Z",
+            "type": "way",
+            "uid": 981872,
+            "user": "b374",
+            "version": 1
         },
         {
+            "changeset": 22743419,
             "id": 286337071,
             "nodes": [
                 2713148718,
@@ -22779,9 +23970,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-06-04T20:58:27Z",
+            "type": "way",
+            "uid": 981872,
+            "user": "b374",
+            "version": 1
         },
         {
+            "changeset": 22743419,
             "id": 286337072,
             "nodes": [
                 305126896,
@@ -22840,9 +24036,14 @@
             "tags": {
                 "highway": "footway"
             },
-            "type": "way"
+            "timestamp": "2014-06-04T20:58:27Z",
+            "type": "way",
+            "uid": 981872,
+            "user": "b374",
+            "version": 1
         },
         {
+            "changeset": 23062980,
             "id": 286337073,
             "nodes": [
                 798141914,
@@ -22909,9 +24110,14 @@
                 "highway": "unclassified",
                 "surface": "unpaved"
             },
-            "type": "way"
+            "timestamp": "2014-06-21T14:22:22Z",
+            "type": "way",
+            "uid": 1211124,
+            "user": "celtos",
+            "version": 2
         },
         {
+            "changeset": 22743419,
             "id": 286337074,
             "nodes": [
                 1987677488,
@@ -22988,9 +24194,14 @@
                 "highway": "unclassified",
                 "surface": "unpaved"
             },
-            "type": "way"
+            "timestamp": "2014-06-04T20:58:27Z",
+            "type": "way",
+            "uid": 981872,
+            "user": "b374",
+            "version": 1
         },
         {
+            "changeset": 25132305,
             "id": 301031043,
             "nodes": [
                 3051422672,
@@ -23064,9 +24275,14 @@
             "tags": {
                 "highway": "track"
             },
-            "type": "way"
+            "timestamp": "2014-08-31T08:07:02Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 1
         },
         {
+            "changeset": 25132361,
             "id": 301031285,
             "nodes": [
                 3051426000,
@@ -23107,9 +24323,14 @@
                 "oneway": "no",
                 "surface": "gravel"
             },
-            "type": "way"
+            "timestamp": "2014-08-31T08:11:43Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 1
         },
         {
+            "changeset": 29552556,
             "id": 333356562,
             "nodes": [
                 2877777284,
@@ -23233,9 +24454,14 @@
                 "highway": "track",
                 "surface": "dirt"
             },
-            "type": "way"
+            "timestamp": "2015-03-17T22:36:45Z",
+            "type": "way",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 1
         },
         {
+            "changeset": 16535614,
             "id": 1275064,
             "members": [
                 {
@@ -23274,9 +24500,14 @@
                 "type": "multipolygon",
                 "wood": "coniferous"
             },
-            "type": "relation"
+            "timestamp": "2013-06-13T10:15:33Z",
+            "type": "relation",
+            "uid": 1474270,
+            "user": "Vasile2013",
+            "version": 3
         },
         {
+            "changeset": 16535614,
             "id": 1283340,
             "members": [
                 {
@@ -23355,9 +24586,14 @@
                 "type": "multipolygon",
                 "wood": "deciduous"
             },
-            "type": "relation"
+            "timestamp": "2013-06-13T10:17:04Z",
+            "type": "relation",
+            "uid": 1474270,
+            "user": "Vasile2013",
+            "version": 4
         },
         {
+            "changeset": 29552556,
             "id": 1577445,
             "members": [
                 {
@@ -23402,9 +24638,14 @@
                 "route": "hiking",
                 "type": "route"
             },
-            "type": "relation"
+            "timestamp": "2015-03-17T22:32:18Z",
+            "type": "relation",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 2
         },
         {
+            "changeset": 11311015,
             "id": 1617850,
             "members": [
                 {
@@ -23419,9 +24660,14 @@
                 "route": "hiking",
                 "type": "route"
             },
-            "type": "relation"
+            "timestamp": "2012-04-15T14:29:51Z",
+            "type": "relation",
+            "uid": 65814,
+            "user": "indreias",
+            "version": 3
         },
         {
+            "changeset": 21231511,
             "id": 1617851,
             "members": [
                 {
@@ -23476,9 +24722,14 @@
                 "route": "hiking",
                 "type": "route"
             },
-            "type": "relation"
+            "timestamp": "2014-03-21T18:03:24Z",
+            "type": "relation",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 4
         },
         {
+            "changeset": 11311759,
             "id": 1617852,
             "members": [
                 {
@@ -23523,9 +24774,14 @@
                 "route": "hiking",
                 "type": "route"
             },
-            "type": "relation"
+            "timestamp": "2012-04-15T15:35:44Z",
+            "type": "relation",
+            "uid": 65814,
+            "user": "indreias",
+            "version": 6
         },
         {
+            "changeset": 21231511,
             "id": 1617853,
             "members": [
                 {
@@ -23605,9 +24861,14 @@
                 "route": "hiking",
                 "type": "route"
             },
-            "type": "relation"
+            "timestamp": "2014-03-21T18:03:25Z",
+            "type": "relation",
+            "uid": 128281,
+            "user": "razor74",
+            "version": 5
         },
         {
+            "changeset": 11310695,
             "id": 1617854,
             "members": [
                 {
@@ -23642,9 +24903,14 @@
                 "route": "hiking",
                 "type": "route"
             },
-            "type": "relation"
+            "timestamp": "2012-04-15T14:05:57Z",
+            "type": "relation",
+            "uid": 65814,
+            "user": "indreias",
+            "version": 4
         },
         {
+            "changeset": 11310592,
             "id": 1617855,
             "members": [
                 {
@@ -23709,9 +24975,14 @@
                 "route": "hiking",
                 "type": "route"
             },
-            "type": "relation"
+            "timestamp": "2012-04-15T13:58:38Z",
+            "type": "relation",
+            "uid": 65814,
+            "user": "indreias",
+            "version": 4
         },
         {
+            "changeset": 11311015,
             "id": 1617856,
             "members": [
                 {
@@ -23751,9 +25022,14 @@
                 "route": "hiking",
                 "type": "route"
             },
-            "type": "relation"
+            "timestamp": "2012-04-15T14:29:50Z",
+            "type": "relation",
+            "uid": 65814,
+            "user": "indreias",
+            "version": 5
         },
         {
+            "changeset": 11310117,
             "id": 1617857,
             "members": [
                 {
@@ -23778,9 +25054,14 @@
                 "route": "hiking",
                 "type": "route"
             },
-            "type": "relation"
+            "timestamp": "2012-04-15T13:27:09Z",
+            "type": "relation",
+            "uid": 65814,
+            "user": "indreias",
+            "version": 3
         },
         {
+            "changeset": 11311131,
             "id": 1617858,
             "members": [
                 {
@@ -23810,9 +25091,14 @@
                 "route": "hiking",
                 "type": "route"
             },
-            "type": "relation"
+            "timestamp": "2012-04-15T14:40:01Z",
+            "type": "relation",
+            "uid": 65814,
+            "user": "indreias",
+            "version": 3
         },
         {
+            "changeset": 11311759,
             "id": 1617859,
             "members": [
                 {
@@ -23862,9 +25148,14 @@
                 "route": "hiking",
                 "type": "route"
             },
-            "type": "relation"
+            "timestamp": "2012-04-15T15:32:31Z",
+            "type": "relation",
+            "uid": 65814,
+            "user": "indreias",
+            "version": 4
         },
         {
+            "changeset": 11310895,
             "id": 1617860,
             "members": [
                 {
@@ -23879,9 +25170,14 @@
                 "route": "hiking",
                 "type": "route"
             },
-            "type": "relation"
+            "timestamp": "2012-04-15T14:19:20Z",
+            "type": "relation",
+            "uid": 65814,
+            "user": "indreias",
+            "version": 2
         },
         {
+            "changeset": 11311759,
             "id": 1617861,
             "members": [
                 {
@@ -23911,9 +25207,14 @@
                 "route": "hiking",
                 "type": "route"
             },
-            "type": "relation"
+            "timestamp": "2012-04-15T15:35:44Z",
+            "type": "relation",
+            "uid": 65814,
+            "user": "indreias",
+            "version": 5
         },
         {
+            "changeset": 11310760,
             "id": 1617862,
             "members": [
                 {
@@ -23933,9 +25234,14 @@
                 "route": "hiking",
                 "type": "route"
             },
-            "type": "relation"
+            "timestamp": "2012-04-15T14:10:32Z",
+            "type": "relation",
+            "uid": 65814,
+            "user": "indreias",
+            "version": 3
         },
         {
+            "changeset": 11312013,
             "id": 1617863,
             "members": [
                 {
@@ -23985,9 +25291,14 @@
                 "route": "hiking",
                 "type": "route"
             },
-            "type": "relation"
+            "timestamp": "2012-04-15T15:50:45Z",
+            "type": "relation",
+            "uid": 65814,
+            "user": "indreias",
+            "version": 7
         },
         {
+            "changeset": 12889907,
             "id": 2137402,
             "members": [
                 {
@@ -24032,9 +25343,14 @@
                 "route": "hiking",
                 "type": "route"
             },
-            "type": "relation"
+            "timestamp": "2012-08-28T10:23:32Z",
+            "type": "relation",
+            "uid": 70696,
+            "user": "xybot",
+            "version": 3
         },
         {
+            "changeset": 12889907,
             "id": 2137413,
             "members": [
                 {
@@ -24059,9 +25375,14 @@
                 "route": "hiking",
                 "type": "route"
             },
-            "type": "relation"
+            "timestamp": "2012-08-28T10:23:33Z",
+            "type": "relation",
+            "uid": 70696,
+            "user": "xybot",
+            "version": 3
         },
         {
+            "changeset": 12889907,
             "id": 2137471,
             "members": [
                 {
@@ -24086,9 +25407,14 @@
                 "route": "hiking",
                 "type": "route"
             },
-            "type": "relation"
+            "timestamp": "2012-08-28T10:23:33Z",
+            "type": "relation",
+            "uid": 70696,
+            "user": "xybot",
+            "version": 3
         },
         {
+            "changeset": 22743419,
             "id": 2137479,
             "members": [
                 {
@@ -24118,9 +25444,14 @@
                 "route": "hiking",
                 "type": "route"
             },
-            "type": "relation"
+            "timestamp": "2014-06-04T20:58:28Z",
+            "type": "relation",
+            "uid": 981872,
+            "user": "b374",
+            "version": 4
         },
         {
+            "changeset": 22743419,
             "id": 2137486,
             "members": [
                 {
@@ -24160,9 +25491,14 @@
                 "route": "hiking",
                 "type": "route"
             },
-            "type": "relation"
+            "timestamp": "2014-06-04T20:58:28Z",
+            "type": "relation",
+            "uid": 981872,
+            "user": "b374",
+            "version": 3
         },
         {
+            "changeset": 25035738,
             "id": 3994094,
             "members": [
                 {
@@ -24177,9 +25513,14 @@
                 "route": "hiking",
                 "type": "route"
             },
-            "type": "relation"
+            "timestamp": "2014-08-26T18:41:57Z",
+            "type": "relation",
+            "uid": 2291451,
+            "user": "black00slayer",
+            "version": 1
         },
         {
+            "changeset": 25035738,
             "id": 3994097,
             "members": [
                 {
@@ -24238,7 +25579,11 @@
                 "route": "hiking",
                 "type": "route"
             },
-            "type": "relation"
+            "timestamp": "2014-08-26T18:43:33Z",
+            "type": "relation",
+            "uid": 2291451,
+            "user": "black00slayer",
+            "version": 1
         },
         {
             "id": 992552796,
@@ -155829,7 +157174,7 @@
     "generator": "Overpass API",
     "osm3s": {
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-        "timestamp_osm_base": "2015-04-30T09:51:02Z"
+        "timestamp_osm_base": "2015-04-30T11:22:02Z"
     },
     "version": 0.6
 }
