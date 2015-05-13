@@ -20582,7 +20582,7 @@
             "version": 2
         },
         {
-            "changeset": 26524360,
+            "changeset": 30967949,
             "id": 264506239,
             "nodes": [
                 2701796749,
@@ -20606,13 +20606,13 @@
                 "religion": "christian",
                 "source": "Legea 544/2001",
                 "tourism": "attraction",
-                "wikipedia:ro": "Biserica Bolni\u021bei M\u0103n\u0103stirii Hurezi"
+                "wikipedia": "ro:Biserica Bolni\u021bei M\u0103n\u0103stirii Hurezi"
             },
-            "timestamp": "2014-11-03T12:20:38Z",
+            "timestamp": "2015-05-10T16:22:08Z",
             "type": "way",
-            "uid": 155698,
-            "user": "ibz",
-            "version": 3
+            "uid": 88164,
+            "user": "Med",
+            "version": 4
         },
         {
             "changeset": 20928809,
@@ -158629,7 +158629,7 @@
     "generator": "Overpass API",
     "osm3s": {
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-        "timestamp_osm_base": "2015-05-06T13:11:02Z"
+        "timestamp_osm_base": "2015-05-13T13:30:02Z"
     },
     "version": 0.6
 }
