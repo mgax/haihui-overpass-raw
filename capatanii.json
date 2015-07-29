@@ -25742,7 +25742,7 @@
             "version": 1
         },
         {
-            "changeset": 32182686,
+            "changeset": 32873179,
             "id": 355740248,
             "nodes": [
                 3612838845,
@@ -26236,14 +26236,14 @@
                 2719434440
             ],
             "tags": {
-                "name": "Bistri\u0163a",
+                "name": "Bistri\u021ba",
                 "waterway": "river"
             },
-            "timestamp": "2015-06-24T12:47:00Z",
+            "timestamp": "2015-07-25T15:16:03Z",
             "type": "way",
-            "uid": 1923271,
-            "user": "OSM_Blue",
-            "version": 2
+            "uid": 323389,
+            "user": "Michael_H",
+            "version": 3
         },
         {
             "changeset": 32160830,
@@ -170467,7 +170467,7 @@
     "generator": "Overpass API",
     "osm3s": {
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-        "timestamp_osm_base": "2015-07-22T10:44:03Z"
+        "timestamp_osm_base": "2015-07-29T08:34:02Z"
     },
     "version": 0.6
 }
