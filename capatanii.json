@@ -22656,7 +22656,7 @@
             "version": 3
         },
         {
-            "changeset": 33776562,
+            "changeset": 36777692,
             "id": 286337070,
             "nodes": [
                 2713149856,
@@ -22686,7 +22686,6 @@
                 2899827754,
                 2899827753,
                 2899827751,
-                2899827752,
                 2899827750,
                 2899827749,
                 2899827748,
@@ -22764,11 +22763,11 @@
                 "highway": "track",
                 "surface": "unpaved"
             },
-            "timestamp": "2015-09-03T16:03:27Z",
+            "timestamp": "2016-01-24T15:11:27Z",
             "type": "way",
-            "uid": 205715,
-            "user": "jBeata",
-            "version": 2
+            "uid": 8296,
+            "user": "kuede",
+            "version": 3
         },
         {
             "changeset": 22743419,
@@ -101334,12 +101333,6 @@
             "type": "node"
         },
         {
-            "id": 2899827752,
-            "lat": 45.311801,
-            "lon": 24.086997,
-            "type": "node"
-        },
-        {
             "id": 2899827753,
             "lat": 45.311804,
             "lon": 24.08663,
@@ -170460,7 +170453,7 @@
     "generator": "Overpass API",
     "osm3s": {
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-        "timestamp_osm_base": "2016-01-20T12:37:02Z"
+        "timestamp_osm_base": "2016-01-26T12:46:02Z"
     },
     "version": 0.6
 }
