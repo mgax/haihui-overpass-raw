@@ -227,6 +227,54 @@
             "version": 4
         },
         {
+            "changeset": 37175416,
+            "id": 4003127714,
+            "lat": 45.17927,
+            "lon": 24.02481,
+            "tags": {
+                "ele": "835",
+                "name": "Varful La Arie",
+                "natural": "peak"
+            },
+            "timestamp": "2016-02-12T19:45:28Z",
+            "type": "node",
+            "uid": 281087,
+            "user": "mdomnita",
+            "version": 1
+        },
+        {
+            "changeset": 37175416,
+            "id": 4003127716,
+            "lat": 45.26808,
+            "lon": 24.16817,
+            "tags": {
+                "ele": "1020",
+                "name": "Varful Pristopel",
+                "natural": "peak"
+            },
+            "timestamp": "2016-02-12T19:45:28Z",
+            "type": "node",
+            "uid": 281087,
+            "user": "mdomnita",
+            "version": 1
+        },
+        {
+            "changeset": 37175416,
+            "id": 4003127719,
+            "lat": 45.28124,
+            "lon": 24.12867,
+            "tags": {
+                "ele": "1493",
+                "name": "Varful Stogu",
+                "natural": "peak"
+            },
+            "timestamp": "2016-02-12T19:45:28Z",
+            "type": "node",
+            "uid": 281087,
+            "user": "mdomnita",
+            "version": 1
+        },
+        {
             "changeset": 32160830,
             "id": 27780940,
             "nodes": [
@@ -170453,7 +170501,7 @@
     "generator": "Overpass API",
     "osm3s": {
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-        "timestamp_osm_base": "2016-02-10T08:53:01Z"
+        "timestamp_osm_base": "2016-02-16T09:46:02Z"
     },
     "version": 0.6
 }
